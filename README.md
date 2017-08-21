@@ -14,7 +14,7 @@
    5. Group and Ungroup
    
    Detailed list of commands used in Rhino could be seen [here](https://docs.mcneel.com/rhino/5/help/en-us/commandlist/command_list.htm)
-* > After desiging the model in Rhino select the entire design and click file -> Import selected. Then a dialog box appears . Then in the    "save as type" section select .stl format and give a meaningful name.
+* > After desiging the model in Rhino select the entire design and click file -> Export selected. Then a dialog box appears . Then in the    "save as type" section select .stl format and give a meaningful name.
    <img src="http://jitheeshk.github.io/threedprinting.github.io/Screenshot (38).png">
 * > Now open the .Stl file in Cura and generate the gcode.
     Use the following data :<br/>
