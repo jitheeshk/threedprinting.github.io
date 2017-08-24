@@ -25,5 +25,6 @@
     <img src="http://jitheeshk.github.io/threedprinting.github.io/Screenshot (39).png">
 * > Now put the memory card in Ultimaker 2+ and navigate to our file and select print .
  
-
+ <b>The final product was :</b>
+<img src="http://jitheeshk.github.io/threedprinting.github.io/headset.jpg">
 
