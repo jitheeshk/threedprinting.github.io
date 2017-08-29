@@ -30,4 +30,4 @@
 
 ## Downloadable files : 
 
-[Headset - Rhino files](https://jitheeshk.github.io/threedprinting.github.io/Headset holder.3dm)
+[Headset-Rhino](https://jitheeshk.github.io/threedprinting.github.io/Headset holder.3dm)
