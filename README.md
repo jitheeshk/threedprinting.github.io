@@ -30,4 +30,8 @@
 
 ## Downloadable files : 
 
-[Headset-Rhino](https://jitheeshk.github.io/threedprinting.github.io/Headset holder.3dm)
+### Headset Holder 
+
+* [Rhino](https://jitheeshk.github.io/threedprinting.github.io/Headset holder.3dm)
+* [Cura](https://jitheeshk.github.io/threedprinting.github.io/Headset Holder.stl)
+* [Cura](https://jitheeshk.github.io/threedprinting.github.io/Headset Holder.gcode)
